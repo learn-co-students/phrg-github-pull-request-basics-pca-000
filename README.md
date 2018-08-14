@@ -109,4 +109,8 @@ typo in your code. All you have to do is fix the typo, commit it and push up
 the changes to your branch. As long as the pull request already exists, the
 commits will be added automatically.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-github-pull-request-basics/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-github-pull-request-basics/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Github Pull Request Basics</p>
